@@ -1,6 +1,6 @@
 # MonkeyTrain
 
-a Cognitive Chimp Test game that trains short-term memory.
+A Cognitive Chimp Test game that trains short-term memory.
 
 PLEASE GO TO INSTRUCTIONS.MD TO SHOW HOW TO LAUNCH THE GAME
 ---
